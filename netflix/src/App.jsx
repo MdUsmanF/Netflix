@@ -1,4 +1,4 @@
-import './App.css';
+import './index.css';
 import CTA from './components/CTA';
 import FAQ from './components/FAQ';
 import Footer from './components/Footer';
