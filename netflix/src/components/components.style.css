@@ -1,0 +1,12 @@
+.netflix__logo{
+    width: 10%;
+}
+  
+.netflix__header_container {
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100%;
+    background: black;
+    overflow: hidden;
+    background: -webkit-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../assets/background.jpg");
+}
