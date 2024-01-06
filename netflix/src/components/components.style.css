@@ -11,6 +11,16 @@
     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../assets/background.jpg");
 }
 
+.shadow_box{
+    box-shadow: 3px 2px 22px 6px rgba(47, 47, 47, 0.473);
+    border-radius: 25px;
+    backdrop-filter: blur(8px); /* Chrome and Opera */
+}
+
+.shadow_box:hover{
+    box-shadow: 3px 2px 22px 6px rgba(128, 0, 0, 0.473);
+}
+
 @media screen and (max-width:480px) {
     .netflix__logo{
         width: 50%;
