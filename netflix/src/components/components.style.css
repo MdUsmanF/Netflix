@@ -10,3 +10,23 @@
     overflow: hidden;
     background: -webkit-linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url("../assets/background.jpg");
 }
+
+@media screen and (max-width:480px) {
+    .netflix__logo{
+        width: 50%;
+    }
+    .netflix__content{
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
+
+@media screen and (max-width:1024px) {
+    .netflix__logo{
+        width: 30%;
+    }
+    .netflix__content{
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
