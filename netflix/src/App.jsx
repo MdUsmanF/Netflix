@@ -8,7 +8,7 @@ import Features from './components/Features';
 
 function App() {
   return (
-    <div>
+    <div className='font-[Helvetica]'>
       <HeroHeader/>
       <Features/>
       <FAQ/>
