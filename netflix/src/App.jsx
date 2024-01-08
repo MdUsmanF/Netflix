@@ -11,7 +11,11 @@ function App() {
     <div className='font-[Helvetica]'>
       <HeroHeader/>
       <Features/>
-      <FAQ/>
+      <div className="w-full bg-black flex justify-center pt-16">
+        <div className="p-4 md:w-1/2 lg:w-full xl:w-3/4">
+          <FAQ />
+        </div>
+      </div>
       <CTA/>
       <Footer/>
     </div>

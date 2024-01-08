@@ -27,6 +27,9 @@ const Footer = () => {
         <u>Contact Us</u>
         <u>Refund Policy</u>
     </div>
+    <div className='grid grid-rows-1 gap-2 col-12'>
+      <span>© Netflix Clone, Designed by MUF</span>
+    </div>
     </div>
   )
 }

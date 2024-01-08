@@ -41,6 +41,7 @@ const Features = () => {
             </div>
         </div>
     </div>
+    <hr class="h-2 bg-gray-800 border-0 dark:bg-gray-800"></hr>
     </>
   )
 }
