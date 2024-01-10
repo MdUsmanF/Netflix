@@ -1,5 +1,5 @@
 import React from 'react'
-import "/workspaces/Netflix/netflix/src/components/components.style.css"
+import "../components/components.style.css"
 import Logo from "../assets/netflix_logo.png"
 
 const Navbar = () => {
