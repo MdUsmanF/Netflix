@@ -6,7 +6,7 @@ To get started with the project,
  
 first, clone the repository:
 ```
-git clone https://github.com/MdUsmanF/netflix-clone.git
+git clone https://github.com/MdUsmanF/Netflix.git
 ```
 Then, navigate to the project directory and install the dependencies:
 
